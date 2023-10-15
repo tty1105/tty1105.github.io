@@ -11,30 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S., Nanjing University, 2018-2022
+* Ph.D, Nanjing University, 2022- 
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+Currently nothing
+<!-- * Summer 2015: Research Assistant
   * Github University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Data reduction softwares of radio/millimeter/sub-millimeter telescope
+  * [Gildas](https://www.iram.fr/IRAMFR/GILDAS/)/CLASS for IRAM 30m, PMOD 13.7m, Yebes 40m, etc.
+  * [Miriad](https://www.atnf.csiro.au/computing/software/miriad/) for ATCA
+* Open-source codes of astronomical numerical simulation
+  * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
+  * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
+  * [UCLCHEM](https://uclchem.github.io/) for astrochemistry
+  * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid mechanics
 
 Publications
 ======
@@ -56,4 +56,11 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* LOC of [*Supernova Remnant and Interstellar Medium 2023*](https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=85) (超新星遗迹与星际介质2023) in Suzhou
+
+On-going projects
+=====
+* High-resolution study of molecular chemistry induced by shock and cosmic rays and triggered star formation in supernova remnant W28 (NOEMA project W22AS, SMA project 2022B-S009 and ATCA project C3530)
+* A 3mm line survey towards supernova remnant 3C391 (Yebes 40m project 23A021)
+* Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9 (GBT project GBT23B-090)
+* Dense gas associated with supernova remnents (PMOD project)
