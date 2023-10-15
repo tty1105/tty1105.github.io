@@ -28,7 +28,7 @@ Skills
   * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
   * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
   * [UCLCHEM](https://uclchem.github.io/) for astrochemistry
-  * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid mechanics
+  * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid mechanics (basic)
 
 Publications
 ======
