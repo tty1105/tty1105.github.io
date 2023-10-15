@@ -63,4 +63,4 @@ On-going projects
 * High-resolution study of molecular chemistry induced by shock and cosmic rays and triggered star formation in supernova remnant W28 (NOEMA project W22AS, SMA project 2022B-S009 and ATCA project C3530)
 * A 3mm line survey towards supernova remnant 3C391 (Yebes 40m project 23A021)
 * Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9 (GBT project GBT23B-090)
-* Dense gas associated with supernova remnents (PMOD project)
+* Dense gas associated with supernova remnents (PMOD project, PI: Yang Chen)
