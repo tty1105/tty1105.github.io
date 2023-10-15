@@ -42,12 +42,6 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
 * LOC of [*Supernova Remnant and Interstellar Medium 2023*](https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=85) (超新星遗迹与星际介质2023) in Suzhou
