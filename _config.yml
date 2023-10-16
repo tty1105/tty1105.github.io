@@ -306,8 +306,7 @@ tag_archive:
 # HTML Compression
 # - http://jch.penibelst.de/
 compress_html:
-  clippings: all
-  blanklines: true
+  clippings: pre
   ignore:
     envs: 
     
