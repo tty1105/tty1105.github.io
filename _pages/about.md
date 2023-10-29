@@ -21,5 +21,5 @@ Massive stars are born in MCs. They end their lives are spectacular supernovae (
 
 The interaction between SNRs and MCs has been found in many SNRs, for instance, W28, IC443, W44 and 3C391. Evidence includes broad molecular lines, infrared H<sub>2</sub> emissions, 1720 MHz OH masers, etc. The shock wave can heat and compress the molecular gas. 
 
-<img src="https://tty1105.github.io/images/about/w28_rosat_optical_radio.jpg" width="500" height="500" />
+<img src="https://tty1105.github.io/images/about/w28_rosat_optical_radio.jpg" width="500" height="500" /> <br>
 SNR W28 (white: optical, blue:X-ray, yellow: radio). cr: [Chandra](https://chandra.harvard.edu/photo/2008/w28/more.html)
