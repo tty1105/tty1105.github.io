@@ -22,13 +22,16 @@ Skills
 ======
 * Python
 * Data reduction softwares of radio/millimeter/sub-millimeter telescope
-  * [Gildas](https://www.iram.fr/IRAMFR/GILDAS/)/CLASS for IRAM 30m, PMOD 13.7m, Yebes 40m, etc.
-  * [Miriad](https://www.atnf.csiro.au/computing/software/miriad/) for ATCA
+  * [Gildas](https://www.iram.fr/IRAMFR/GILDAS/)/CLASS for data reduction of IRAM 30m, PMOD 13.7m, Yebes 40m, etc.
+  * [Miriad](https://www.atnf.csiro.au/computing/software/miriad/) for ATCA data calibration and imaging
+  * [CASA](https://casa.nrao.edu/casa_obtaining.shtml) for SMA data calibration and imaging
 * Open-source codes of astronomical numerical simulation
   * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
   * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
   * [UCLCHEM](https://uclchem.github.io/) for astrochemistry
   * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid mechanics (basic)
+* Observation experience
+  * Qualified observer of ATCA (NH<sub>3</sub> spectral lines)
 
 Publications
 ======
