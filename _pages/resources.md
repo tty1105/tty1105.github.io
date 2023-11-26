@@ -27,9 +27,13 @@ redirect_from:
 * [IRSA](https://irsa.ipac.caltech.edu/frontpage/) for infrared data of, for example, Spitzer, WISE, Herschel, Planck, etc.
 * [MAGPIS](https://third.ucllnl.org/gps/): Multi-Array Galactic Plane Imaging Survey
 * [PPMAP](http://www.astro.cardiff.ac.uk/research/ViaLactea/): Herschel maps of column density and dust temperature fitted by [Marsh et al. (2017)](https://ui.adsabs.harvard.edu/abs/2017MNRAS.471.2730M/abstract)
+* [CADC](https://www.cadc-ccda.hia-iha.nrc-cnrc.gc.ca/en/search/): Canadian Astronomy Data Centre 
+
 ### Other data
 * [LAMDA](https://home.strw.leidenuniv.nl/~moldata/): Leiden Atomic and Molecular Database
 * [EMAA](https://emaa.osug.fr/): Excitation of molecules and atoms for astrophysics
-* [UMIST2023](https://umistdatabase.net/): 2012 edition of The UMIST Database for Astrochemistry
+* [UMIST2023](https://umistdatabase.net/): 2023 edition of The UMIST Database for Astrochemistry
 * [KIDA](https://kida.astrochem-tools.org/): Kinematic database for astrochemistry
 * [Splatalogue](https://splatalogue.online/): database for astronomical spectroscopy
+* [CDMS](https://cdms.astro.uni-koeln.de/): The Cologne Database for Molecular Spectroscopy
+* 
