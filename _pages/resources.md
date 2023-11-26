@@ -30,6 +30,6 @@ redirect_from:
 ### Other data
 * [LAMDA](https://home.strw.leidenuniv.nl/~moldata/): Leiden Atomic and Molecular Database
 * [EMAA](https://emaa.osug.fr/): Excitation of molecules and atoms for astrophysics
-* [UMIST2012](http://udfa.ajmarkwick.net/index.php): 2012 edition of The UMIST Database for Astrochemistry
+* [UMIST2023](https://umistdatabase.net/): 2012 edition of The UMIST Database for Astrochemistry
 * [KIDA](https://kida.astrochem-tools.org/): Kinematic database for astrochemistry
 * [Splatalogue](https://splatalogue.online/): database for astronomical spectroscopy
