@@ -49,9 +49,11 @@ Service and leadership
 ======
 * LOC of [*Supernova Remnant and Interstellar Medium 2023*](https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=85) (超新星遗迹与星际介质2023) in Suzhou
 
-On-going projects
+Approved observation proposals as PI
 =====
-* High-resolution study of molecular chemistry induced by shock and cosmic rays and triggered star formation in supernova remnant W28 (NOEMA project W22AS, SMA project 2022B-S009 and ATCA project C3530)
-* A 3mm line survey towards supernova remnant 3C391 (Yebes 40m project 23A021)
-* Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9 (GBT project GBT23B-090)
-* Dense gas associated with supernova remnents (PMOD project, PI: Yang Chen)
+* NOEMA (W22AS: 11h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
+* SMA (2022B-S009: 16h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
+* ATCA (C3530: 24+10.6h): NH3 observation towards three ATLASGAL clumps associated with supernova remnant W28 
+* Yebes (23A021: 22h) A 3mm line survey towards supernova remnant 3C391 
+* GBT (GBT23B-090: 12h): Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9
+* Yebes (24A003: 30.5h): Molecular Chemistry Induced by J-shock in Supernova Remnant W51C
