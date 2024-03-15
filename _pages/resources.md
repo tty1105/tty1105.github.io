@@ -1,9 +1,9 @@
 ---
-permalink: /resources/
+permalink: /pthers/
 title: "Others"
 author_profile: true
 redirect_from: 
-  - /resources.html
+  - /others.html
 ---
 
 ## Proposal calls or homepages of radio/millimeter/submillimeter telescopes
