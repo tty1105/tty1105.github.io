@@ -1,7 +1,8 @@
 ---
 title: "Shock and Cosmic Ray Chemistry Associated with the Supernova Remnant W28"
-collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
+collection: publications1
+permalink: /publication/2024-W28-ApJ
+excerpt: 'HCO+, HCN and HNC observation towards W28, with chemical simulations.'
 date: 2024-03-20
 venue: 'ApJ'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
