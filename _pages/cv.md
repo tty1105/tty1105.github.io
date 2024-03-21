@@ -36,7 +36,9 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
+    {% if post.firstauthor == 'Yes'%}
     {% include archive-single-cv.html %}
+    {% endif %}
   {% endfor %}</ul>
   
 Talks
