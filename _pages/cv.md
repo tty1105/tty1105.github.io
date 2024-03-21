@@ -37,7 +37,6 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-    {% post.authors %}
   {% endfor %}</ul>
   
 Talks
