@@ -7,7 +7,7 @@ excerpt: 'Identification of a recurrent Nova in M31'
 date: 2022-10-20
 venue: 'ATel #15729'
 firstauthor: 'No'
-citation: 'A. W. Shafter, K. Hornoch, J. Zhao, ATel'
+citation: 'A. W. Shafter, K. Hornoch, J. Zhao, ATel #15729'
 ---
 Authors: Allen W. Shafter, Kamil Hornoch, Jingyuan Zhao, **Tianyu Tu**, Jianlin Xu, Mi Zhang, Jiangao Ruan, Guoyou Sun, Yi Ding, Xing Gao
 
