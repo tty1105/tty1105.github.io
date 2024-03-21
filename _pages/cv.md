@@ -36,7 +36,7 @@ Skills
 Publications
 ======
   <ul>{% for post in site.publications %}
-    {% if post.firstauthor == 'Yes'%}
+    {% if post.firstauthor == 'yes' %}
     {% include archive-single-cv.html %}
     {% endif %}
   {% endfor %}</ul>
