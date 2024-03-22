@@ -33,7 +33,7 @@ Skills
 * Observation experience
   * Qualified observer of ATCA (NH<sub>3</sub> spectral lines)
 
-Publications
+Publications (as 1st author)
 ======
   <ul>{% for post in site.publications %}
     {% if post.firstauthor == 'Yes' %}
@@ -51,7 +51,7 @@ Service and leadership
 ======
 * LOC of [*Supernova Remnant and Interstellar Medium 2023*](https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=85) (超新星遗迹与星际介质2023) in Suzhou
 
-Approved observation proposals as PI
+Approved observation proposals (as PI)
 =====
 * NOEMA (W22AS: 11h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
 * SMA (2022B-S009: 16h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
