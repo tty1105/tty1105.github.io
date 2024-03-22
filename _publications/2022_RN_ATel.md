@@ -12,3 +12,6 @@ citation: 'A. W. Shafter, K. Hornoch, J. Zhao, ATel #15729'
 Authors: Allen W. Shafter, Kamil Hornoch, Jingyuan Zhao, **Tianyu Tu**, Jianlin Xu, Mi Zhang, Jiangao Ruan, Guoyou Sun, Yi Ding, Xing Gao
 
 See details [here](https://www.astronomerstelegram.org/?read=15729)
+
+<img src="https://tty1105.github.io/files/publications/2022_RN_ATel.png" width="744" height="792" align="middle" /> <br>
+taken from [PSP news](https://nadc.china-vo.org/psp/article/20190923124559)
