@@ -13,10 +13,6 @@ Education
 ======
 * B.S., Nanjing University, 2018-2022
 * Ph.D, Nanjing University, 2022- 
-
-Work experience
-======
-Currently nothing
   
 Skills
 ======
