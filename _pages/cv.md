@@ -46,6 +46,7 @@ Talks
 Service and leadership
 ======
 * LOC of [*Supernova Remnant and Interstellar Medium 2023*](https://astronomy.nju.edu.cn/njdx/front/expand/registration/view.do?iid=85) (超新星遗迹与星际介质2023) in Suzhou
+* Teaching assistant of course _Astrophysical Radiation Mechanisms_ (2023.9-2024.1)
 
 Approved observation proposals (as PI)
 =====
