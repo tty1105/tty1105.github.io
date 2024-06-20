@@ -43,7 +43,7 @@ redirect_from:
 * [Splatalogue](https://splatalogue.online/): database for astronomical spectroscopy
 * [CDMS](https://cdms.astro.uni-koeln.de/): The Cologne Database for Molecular Spectroscopy
 
-### Collaborators
+## Collaborators
 * [Ping Zhou](https://astronomy.nju.edu.cn/szll/szgk/fjs/20220606/i223379.html), Nanjing University, China
 * Valentine Wakelam, Laboratoire d'Astrophysique de Bordeaux, France
 * [Liton Majumdar](https://niser.ac.in/~liton/), National Institute of Science Education and Research (NISER), India
