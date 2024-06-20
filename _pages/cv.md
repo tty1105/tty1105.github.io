@@ -25,6 +25,7 @@ Skills
   * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
   * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
   * [UCLCHEM](https://uclchem.github.io/) for astrochemistry
+  * [Meudon PDR code](https://ism.obspm.fr/pdr.html) for simulation of photodissociation regions
   * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid dynamics (basic)
 * Observation experience
   * Qualified observer of ATCA (NH<sub>3</sub> spectral lines)
