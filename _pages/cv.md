@@ -58,3 +58,4 @@ Approved observation proposals (as PI)
 * GBT (GBT23B-090: 12h): Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9
 * Yebes (24A003: 30.5h): Molecular Chemistry Induced by J-shock in Supernova Remnant W51C
 * Yebes (24B010: 36.5h): Chemistry induced by cosmic rays towards supernova remnant Kes79
+* IRTF (2024B008: 11h): Cosmic-ray processing of interstellar ice towards supernova remnant W44
