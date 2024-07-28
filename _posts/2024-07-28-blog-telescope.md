@@ -16,7 +16,7 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
 
 ### Telescopes in other countries in the northern hemisphere
 ### Telescopes in other countries in the southern hemisphere
-  1. Astralia Telescope Compact Array ([ATCA](https://www.narrabri.atnf.csiro.au/observing/)): A radio interferometer working at **1.1-3.1, 3.9-11, 16-25, 30-50, and 83-105 GHz**. The most extended configurations are the 6A to 6D configurations with up to 6 km baselines, while the most compact comfiguration is the H75 configuration with 30.6-75 m baseline. The CABB backend provides 16 zoom bands for spectral line observations, each covering 64 MHz with a resolution of 31.25 kHz. However, CABB may be replaced in the coming semesters. Note that the sensitivity of ATCA is not very high for spectral line observaiton. The [call for proposal](https://opal.atnf.csiro.au/) is issued in December and June every year. 
+  1. Astralia Telescope Compact Array ([ATCA](https://www.narrabri.atnf.csiro.au/observing/)): A radio interferometer working at **1.1-3.1, 3.9-11, 16-25, 30-50, and 83-105 GHz**. The most extended configurations are the 6A to 6D configurations with up to **6 km** baselines, while the most compact comfiguration is the H75 configuration with **~ 30.6-75** m baseline. The CABB backend provides **16 zoom bands** in a total 2 GHz bandwidth for spectral line observations, each covering **64 MHz** with a resolution of **31.25 kHz**. However, CABB may be replaced in the coming semesters. Note that the sensitivity of ATCA is not very high for spectral line observaiton. The [call for proposal](https://opal.atnf.csiro.au/) is issued in December and June every year. You need to observe by youself after some basic training. 
 
 
 # IR Telescopes
