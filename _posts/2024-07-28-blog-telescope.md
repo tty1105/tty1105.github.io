@@ -48,9 +48,9 @@ Chinese researchers can access large optical/infrared through Telescope Access P
    **WIRC**: 8.7 arcmin FOV, 0.25 arcsec/pix, with H2, K, Ks filters. <br>
    **TSpec**: 1-2.5$\mu\rm m$ with resolution of 2500-2700. <br>
 3. Infrared Telescope Facility ([IRTF](https://irtfweb.ifa.hawaii.edu/), 3.2m, open) <br>
-   **SpeX**: 0.7-5.3$\mu\rm m$ with R~200-2500 with different modes to cover different bands. <br>
-   **iSHELL**: 1.1-5.3$\mu\rm m$ with R~75000 with different modes to cover different (relatively narrow) bands <br>
-   **TEXES** (visitor instrument): 5-20 and 22-25$\mu\rm m$ with R~40000-100000 <br>
+   **SpeX**: 0.7-5.3$\mu\rm m$ with R ~ 200-2500 with different modes to cover different bands. <br>
+   **iSHELL**: 1.1-5.3$\mu\rm m$ with R ~ 75000 with different modes to cover different (relatively narrow) bands <br>
+   **TEXES** (visitor instrument): 5-20 and 22-25$\mu\rm m$ with R ~ 40000-100000 <br>
    **Notes**: Not very competitive. Proposals are encouranged. <br>
 4. Gemini North (8m, NOIRLab) availble intruments depend <br>
    [**GNIRS**](https://www.gemini.edu/instrumentation/gnirs): 1-5.4$\mu\rm m$ with R~1200-18000, *or* 0.1-0.34 arcmin FOV imaging with H2 and K filters, *or* two modes of IFU. <br>
