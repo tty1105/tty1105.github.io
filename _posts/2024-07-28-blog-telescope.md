@@ -23,6 +23,15 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
    **Notes**: You may need to ask the staff at SHAO for detailed information about the proposal writing and sensitivity estimation.
 
 ## Telescopes in other countries in the northern hemisphere
+1. [IRAM 30m](https://iram-institute.org/science-portal/30-meter-telescope/) (Institut de radioastronomie millimétrique): 30m mm/submm telescope <br>
+   **Band**: 72.68-117, 125-184, 202-274, and 277-350 GHz. <br>
+   **Line Observation**: FTS200: 4$\times$8 GHz with 195 kHz resolution, and FTS50: 8$\times$1.8 GHz with 50 kHz resolution <br>
+   **Time for proposal**: [deadline in mid-March and min-September](https://iram-institute.org/science-portal/proposals/call-for-proposals/), and same for NOEMA
+3. [NOEMA](https://iram-institute.org/science-portal/noema/): mm/submm interferometer (ten to twelve 15m antennas) <br>
+   **Band**: 71-119, 127-182 and 197-276 GHz <br>
+   **Configuration**: up to 760m, beam ~ 3.5 arcsec (configuration D) and ~ 0.5 arcsec (configuration A) at 100 GHz <br>
+   **Line Observation**: 64 chunks (64 MHz bandwidth, 62.5 kHz resolution) in two 7.7 GHz sideband <br>
+   **Notes**: Proposal is only open to some specific institutes in China (e.g. NJU). <br>
 ## Telescopes in other countries in the southern hemisphere
 1. Astralia Telescope Compact Array ([ATCA](https://www.narrabri.atnf.csiro.au/observing/)): A radio interferometer (six 22m antennas). <br>
    **Band**: 1.1-3.1, 3.9-11, 16-25, 30-50, and 83-105 GHz <br>
@@ -74,7 +83,7 @@ Chinese researchers can access large optical/infrared through Telescope Access P
    [**VISIR**](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) (on UT2): imaging and spectrography, at 5, 8-13 and 17-20 $\mu\rm m$, 1 arcmin FOV or R ~ 25000 <br>
    [**CRIRES**](https://www.eso.org/sci/facilities/paranal/instruments/crires.html) (on UT3): 0.95-5.3$\mu\rm m$ with R up to 92000. <br>
    [**HAWK-I**](https://www.eso.org/sci/facilities/paranal/instruments/hawki.html) (on UT4): 7.5 arcmin FOV, 0.11 arcsec/pix, with H2 and continuum filters. <br> 
-   [**Time for proposal**]: [issued at the end of February and at the end of August](https://www.eso.org/sci/observing/phase1.html)
+   **Time for proposal**: [issued at the end of February and at the end of August](https://www.eso.org/sci/observing/phase1.html)
 5. Magellan Telescope (2 6.5m, sometimes open to NOIRLab) <br>
    [**FourStar**](https://www.lco.cl/?epkb_post_type_1=fourstar) (Magellan I): 10.8 arcmin FOV, 0.16 arcsec/pix, some continuum filters <br>
    [**FIRE**](https://web.mit.edu/~rsimcoe/www/FIRE/) (Magellan I): 0.8-2.5$\mu\rm m$ with R ~ 6000-8000 <br>
