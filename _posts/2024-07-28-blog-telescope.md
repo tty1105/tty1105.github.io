@@ -39,7 +39,7 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
 
 
 # IR Telescopes
-Chinese researchers can access large optical/infrared through Telescope Access Program (TAP) at NAOC issued in March and Septemter and the [NSF's NOIRLab Call for Proposals](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) (deadline approximately 1st April and 1st Oct every year). 
+Chinese researchers can access large optical/infrared through Telescope Access Program (TAP) at NAOC issued in March and Septemter and the [NSF's NOIRLab Call for Proposals](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) (deadline approximately on 1st April and 1st Oct every year). 
 ## Telescopes in the northern hemisphere
 1. Canada-France-Hawaii Telescope ([CFHT](https://www.cfht.hawaii.edu/en/science/Proposals/), 3.6m, TAP) <br>
    **WIRCam**: 4 detectors with 21.5 arcmin FOV, 0.306 arcsec/pix, 1-2.3 $\mu\rm m$, with H2 v=1-0 S(1) (2122$\pm$32 nm), K continuum (2218$\pm$33 nm), and Ks (2146$\pm$325 nm) filters. <br>
@@ -51,10 +51,23 @@ Chinese researchers can access large optical/infrared through Telescope Access P
    **SpeX**: 0.7-5.3$\mu\rm m$ with R ~ 200-2500 with different modes to cover different bands. <br>
    **iSHELL**: 1.1-5.3$\mu\rm m$ with R ~ 75000 with different modes to cover different (relatively narrow) bands <br>
    **TEXES** (visitor instrument): 5-20 and 22-25$\mu\rm m$ with R ~ 40000-100000 <br>
+   **Time for proposal**: deadline approximately on 1st April and 1st Oct every year <br>
    **Notes**: Not very competitive. Proposals are encouranged. <br>
 4. Gemini North (8m, NOIRLab) availble intruments depend <br>
    [**GNIRS**](https://www.gemini.edu/instrumentation/gnirs): 1-5.4$\mu\rm m$ with R~1200-18000, *or* 0.1-0.34 arcmin FOV imaging with H2 and K filters, *or* two modes of IFU. <br>
-   [**NIRI**]: 2 arcmin FOV, 0.117 arcsec/pix, with H2 v=1-0 S(1) (2123.9$\pm$26 nm), \[FeII\] (1644$\pm$25 nm), K continuum (2097.5$\pm$27 and 2271.8$\pm$35 nm) and H continuum (1570$\pm$23.6 nm) filters. <br>
+   [**NIRI**](https://www.gemini.edu/instrumentation/niri): 2 arcmin FOV, 0.117 arcsec/pix, with H2 v=1-0 S(1) (2123.9$\pm$26 nm), \[FeII\] (1644$\pm$25 nm), K continuum (2097.5$\pm$27 and 2271.8$\pm$35 nm) and H continuum (1570$\pm$23.6 nm) filters. <br>
+5. Subaru telescope (8.2m, through time exchange with Gemini in NOIRLab) <br>
+   [**IRCS**](https://www.naoj.org/Observing/Instruments/IRCS/index.html): 0.9-5.6$\mu\rm m$ with R up to 20000 <br>
+6. Keck (10m, Keck I and II, sometimes open to NOIRLab) <br>
+   [**OSIRIS**](https://www2.keck.hawaii.edu/inst/osiris/) (Keck I): NIR IFU with R ~ 3800 <br>
+   [**NIRSPEC**](https://www2.keck.hawaii.edu/inst/nirspec/) (Keck II): 0.95-5.5$\mu\rm m$ with R ~ 25000 <br>
 ## Telescopes in the southern hemisphere
 1. Gemini South (8m, NOIRLab) availble intruments depend <br>
+   [**FLAMINGOS-2**](https://www.gemini.edu/instrumentation/flamingos-2): 6 arcmin FOV, 0.18 arcsec/pix with some broad band filters <br>
+2. Cerro Tololo Inter-American Observatory (CTIO, 4m, NOIRLab) <br>
+   [**NEWFIRM**](https://noirlab.edu/science/programs/ctio/instruments/newfirm): 27.6 arcmin FOV, 0.4 arcsec/pix, with H2 (2131.9, FWHM 24.0 nm), \[FeII\] (1649.1, FWHM 17.2 nm), and some continuum filters. <br>
+3. Southern Astrophysical Research Telescope (SOAR, 4.2m, NOIRLab)
+   [**SPARTAN Near-IR Camera**](https://noirlab.edu/science/programs/ctio/instruments/spartan-near-ir-camera): 5 arcmin FOV, 0.4 arcsec/pix, with H2 (2116, FWHM 31.0 nm), \[FeII\] (1640, FWHM 14 nm), narrow K continuum (2140, FWHM 30 nm), and some broad continuum filters. <br>
+   [**TripleSpec**](https://noirlab.edu/science/programs/ctio/instruments/triplespec41-nir-imaging-spectrograph): 0.8-2.47$\mu\rm m$, resolution ~ 3500
+4. Very Large Telescope (VLT)
 
