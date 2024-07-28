@@ -39,5 +39,10 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
 
 
 # IR Telescopes
+Chinese researchers can access large optical/infrared through Telescope Access Program (TAP) at NAOC issued in March and Septemter and the [NSF's NOIRLab Call for Proposals](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) (deadline approximately 1st April and 1st Oct every year). 
 ## Telescopes in the northern hemisphere
+1. Canada-France-Hawaii Telescope (CFHT, 3.6m)
+   **WIRCam**: 4 detectors with 21.5 arcmin FOV, 0.306 arcsec/pix, 1-2.3 $\mu\rm m$, with H2 v=1-0 S(1), K continuum (2218$\pm$33 nm), and Ks (2146$\pm$325 nm) filters. 
+3. Palomar Hale Telescope (P200, 5.1m)
+4. Infrared Telescope Facility (IRTF, 3.2m)
 ## Telescopes in the southern hemisphere
