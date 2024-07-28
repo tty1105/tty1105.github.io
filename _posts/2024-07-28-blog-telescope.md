@@ -30,12 +30,12 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
    **Line observation**: The CABB backend provides **16 zoom bands** in a total 2 GHz bandwidth for spectral line observations, each covering **64 MHz** with a resolution of **31.25 kHz**. However, CABB may be replaced in the coming semesters. <br>
    **Time for proposal**: [December and June](https://opal.atnf.csiro.au/) <br>
    **Notes**: The sensitivity of ATCA is not very high for spectral line observaiton. I tend to use it only for NH3 observation with H168 configuration (~10 arcsec beam). You need to observe remotely by reself after some training.
-2. Atacama Large Millimeter/submillimeter Array ([ALMA](https://almascience.nrao.edu/)): The best instrument in the world.
-   50 12m antennas, 12 7m antennas (ACA), and 4 12m antennas (TP). 
-   **Band**: 35-950 GHz
-   **Line observation**: 2$\times$4 GHz bandwidths with different resolutions. 
+2. Atacama Large Millimeter/submillimeter Array ([ALMA](https://almascience.nrao.edu/)): The best instrument in the world. <br>
+   50 12m antennas, 12 7m antennas (ACA), and 4 12m antennas (TP). <br>
+   **Band**: 35-950 GHz <br>
+   **Line observation**: 2$\times$4 GHz bandwidths with different resolutions. <br>
    **Time for proposal**: [About April](https://almascience.nrao.edu/proposing/call-for-proposals) <br>
-   **Notes**: See the Proposer's Guide for details. 
+   **Notes**: See the Proposer's Guide for details. <br>
 
 
 # IR Telescopes
