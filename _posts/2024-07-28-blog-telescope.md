@@ -27,11 +27,32 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
    **Band**: 72.68-117, 125-184, 202-274, and 277-350 GHz. <br>
    **Line Observation**: FTS200: 4$\times$8 GHz with 195 kHz resolution, and FTS50: 8$\times$1.8 GHz with 50 kHz resolution <br>
    **Time for proposal**: [deadline in mid-March and min-September](https://iram-institute.org/science-portal/proposals/call-for-proposals/), and same for NOEMA
-3. [NOEMA](https://iram-institute.org/science-portal/noema/): mm/submm interferometer (ten to twelve 15m antennas) <br>
+2. [NOEMA](https://iram-institute.org/science-portal/noema/): mm/submm interferometer (ten to twelve 15m antennas) <br>
    **Band**: 71-119, 127-182 and 197-276 GHz <br>
    **Configuration**: up to 760m, beam ~ 3.5 arcsec (configuration D) and ~ 0.5 arcsec (configuration A) at 100 GHz <br>
    **Line Observation**: 64 chunks (64 MHz bandwidth, 62.5 kHz resolution) in two 7.7 GHz sideband <br>
    **Notes**: Proposal is only open to some specific institutes in China (e.g. NJU). <br>
+3. [Yebes 40m radio telescope](https://rt40m.oan.es/): 40m mm telescope <br>
+   **Band**: 31.3-50.6 and 72-90 GHz <br>
+   **Line Observation**: 18.5 GHz bandwidth with 38 kHz resolution (~ 0.11 km/s at 80 GHz) <br>
+   **Time for proposal**: deadline in ~ January and July/June every year. <br>
+   **Notes**: Not very competitive. Proposals are encouranged.
+4. James-Clerk-Maxwell Telescope ([JCMT](https://www.eaobservatory.org/jcmt/observing/getting-started/)): 15m submm telescope <br>
+   **Band**: 325-375 GHz (HARP), 215-270.6 GHz (Uu) <br>
+   **Line observation**: 250 MHz (30.5 kHz resolution with one 250 MHz mode) to 1860 MHz (97.7 kHz resolution)  <br>
+   **Time for proposal**: [deadline in mid-March and mid-September](https://www.eaobservatory.org/jcmt/proposals/) <br>
+   **Notes**: HARP is a 16 beam receiver. <br>
+5. Green Bank Telescope ([GBT](https://greenbankobservatory.org/portal/gbt/)): 100m radio telescope <br>
+   **Band**: 290 MHz to 116 GHz <br>
+   **Line observation**: Many modes for spectral line observation, for example, **1.25 GHz** bandwidth with **92 kHz** resolution and **8** spectral windows each with a **23.44 MHz** bandwidth and **5.7 kHz** resolution. <br>
+   **Time for proposal**: [deadline in 1st Feburary and 1st August](https://greenbankobservatory.org/portal/gbt/proposing/), and same for VLA <br>
+   **Notes**: There are several multi-beam receivers. Obervations at >50 GHz are only limited to nights in winter, and little time is available. You need to observe remotely by reself after some training. <br>
+6. Very Large Array ([VLA](https://science.nrao.edu/observing/call-for-proposals)): radio interferometer (twenty-seven 25m antennas) <br>
+   **Band**: 1-50 GHz <br>
+   **Configuration**: 3.1 arcsec (configuration D) and 0.089 arcsec (configuration A) at 22 GHz <br>
+   **Line observation**: see the call for proposal page for details  <br>
+   **Notes**: VLA can mainly be used to observed the NH3 lines, and SiO, CH3OH, and some carbon chains. <br>
+   
 ## Telescopes in other countries in the southern hemisphere
 1. Astralia Telescope Compact Array ([ATCA](https://www.narrabri.atnf.csiro.au/observing/)): A radio interferometer (six 22m antennas). <br>
    **Band**: 1.1-3.1, 3.9-11, 16-25, 30-50, and 83-105 GHz <br>
