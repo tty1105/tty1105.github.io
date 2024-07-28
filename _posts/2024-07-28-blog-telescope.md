@@ -11,8 +11,9 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
 
 ## cm/mm/sub-mm Telescopes
 * Telescopes in China
-  1. Purple Mountain Observatory at Delingha ([PMOD](http://www.radioast.nsdc.cn/shiyongzhinan.php)): A **13.7m** telescope works at approximately **85-115 GHz** with a velocity resolution of ~0.2 km/s, covering most of the molecular limes at 3mm band. 
-  2. 
+  1. Purple Mountain Observatory at Delingha ([PMOD](http://www.radioast.nsdc.cn/shiyongzhinan.php)): A **13.7 m** millimeter telescope working at approximately **85-115 GHz** with a velocity resolution of **~ 0.2 km/s** and a bandwidth of **~ 1 GHz**, covering most of the molecular limes at 3mm band. The telescope has a 3 \times 3 beam receiver to speed up mapping observation. Proposal for PMOD can be submitted troughout the year, but in winter, the telescope is mainly dedicated to the MWISP observations. Note that you may need to ask the staff at PMOD for detailed information about the proposal writing and sensitivity estimation. 
+  2. Tianma Radio Telescope ([TMRT](http://65m.shao.cas.cn/)): A **65 m** radio telescope operated by Shanghai Astronomical Observatory (SHAO) working at **~ 1350 MHz to 50 GHz** (currently the X and Ka band, i.e. 8-9 and 30-34 GHz, receivers are not available). The are many modes for spectral line observation, for example, **1.5 GHz** bandwidth with **61 kHz** resolution and **8** spectral windows each with a **23.44 MHz** bandwidth and **5.7 kHz** resolution. The call for proposal of TMRT is issued by NAOC (English website) in August every year. Note that you may need to ask the staff at SHAO for detailed information about the proposal writing and sensitivity estimation.
+
 * Telescopes in other countries in the northern hemisphere
 * Telescopes in other countries in the southern hemisphere
 
