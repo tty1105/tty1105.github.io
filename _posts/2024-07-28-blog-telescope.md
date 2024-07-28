@@ -110,7 +110,7 @@ Chinese researchers can access large optical/infrared through Telescope Access P
 3. Southern Astrophysical Research Telescope (SOAR, 4.2m, NOIRLab) <br>
    [**SPARTAN Near-IR Camera**](https://noirlab.edu/science/programs/ctio/instruments/spartan-near-ir-camera): 5 arcmin FOV, 0.4 arcsec/pix, with H2 (2116, FWHM 31.0 nm), \[FeII\] (1640, FWHM 14 nm), narrow K continuum (2140, FWHM 30 nm), and some broad continuum filters. <br>
    [**TripleSpec**](https://noirlab.edu/science/programs/ctio/instruments/triplespec41-nir-imaging-spectrograph): 0.8-2.47$\mu\rm m$, resolution ~ 3500
-4. Very Large Telescope (VLT, 4 8.2m)
+4. Very Large Telescope (VLT, 4 8.2m) <br>
    [**KMOS**](https://www.eso.org/sci/facilities/paranal/instruments/kmos.html) (on UT1): IFU with R ~ 2000-4200, 64.9$\times$43.3 arcsec FOV in mosaic mode <br>
    [**VISIR**](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) (on UT2): imaging and spectrography, at 5, 8-13 and 17-20 $\mu\rm m$, 1 arcmin FOV or R ~ 25000 <br>
    [**CRIRES**](https://www.eso.org/sci/facilities/paranal/instruments/crires.html) (on UT3): 0.95-5.3$\mu\rm m$ with R up to 92000. <br>
