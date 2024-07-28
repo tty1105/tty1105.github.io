@@ -41,15 +41,20 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
 # IR Telescopes
 Chinese researchers can access large optical/infrared through Telescope Access Program (TAP) at NAOC issued in March and Septemter and the [NSF's NOIRLab Call for Proposals](https://noirlab.edu/science/observing-noirlab/proposals/call-for-proposals) (deadline approximately 1st April and 1st Oct every year). 
 ## Telescopes in the northern hemisphere
-1. Canada-France-Hawaii Telescope ([CFHT](https://www.cfht.hawaii.edu/en/science/Proposals/), 3.6m) <br>
+1. Canada-France-Hawaii Telescope ([CFHT](https://www.cfht.hawaii.edu/en/science/Proposals/), 3.6m, TAP) <br>
    **WIRCam**: 4 detectors with 21.5 arcmin FOV, 0.306 arcsec/pix, 1-2.3 $\mu\rm m$, with H2 v=1-0 S(1) (2122$\pm$32 nm), K continuum (2218$\pm$33 nm), and Ks (2146$\pm$325 nm) filters. <br>
    **SPIRou**: 0.95-2.35 $\mu\rm m$ with resolution ~75000. <br>
-2. Palomar Hale Telescope ([P200](http://www.astro.caltech.edu/palomar/about/telescopes/hale.html), 5.1m) <br>
+2. Palomar Hale Telescope ([P200](http://www.astro.caltech.edu/palomar/about/telescopes/hale.html), 5.1m, TAP) <br>
    **WIRC**: 8.7 arcmin FOV, 0.25 arcsec/pix, with H2, K, Ks filters. <br>
    **TSpec**: 1-2.5$\mu\rm m$ with resolution of 2500-2700. <br>
-3. Infrared Telescope Facility ([IRTF](https://irtfweb.ifa.hawaii.edu/), 3.2m) <br>
-   **SpeX**: 0.7-5.3$\mu\rm m$ with R~200-2500 with different modes to cover different bands. 
-   **iSHELL**: 1.1-5.3$\mu\rm m$ with R~75000 with different modes to cover different (relatively narrow) bands
-   **TEXES** (visitor instrument): 5-20 and 22-25$\mu\rm m$ with R~40000-100000
-   **Notes**: Not very competitive. Proposals are encouranged. 
+3. Infrared Telescope Facility ([IRTF](https://irtfweb.ifa.hawaii.edu/), 3.2m, open) <br>
+   **SpeX**: 0.7-5.3$\mu\rm m$ with R~200-2500 with different modes to cover different bands. <br>
+   **iSHELL**: 1.1-5.3$\mu\rm m$ with R~75000 with different modes to cover different (relatively narrow) bands <br>
+   **TEXES** (visitor instrument): 5-20 and 22-25$\mu\rm m$ with R~40000-100000 <br>
+   **Notes**: Not very competitive. Proposals are encouranged. <br>
+4. Gemini North (8m, NOIRLab) availble intruments depend <br>
+   [**GNIRS**](https://www.gemini.edu/instrumentation/gnirs): 1-5.4$\mu\rm m$ with R~1200-18000, *or* 0.1-0.34 arcmin FOV imaging with H2 and K filters, *or* two modes of IFU. <br>
+   [**NIRI**]: 2 arcmin FOV, 0.117 arcsec/pix, with H2 v=1-0 S(1) (2123.9$\pm$26 nm), \[FeII\] (1644$\pm$25 nm), K continuum (2097.5$\pm$27 and 2271.8$\pm$35 nm) and H continuum (1570$\pm$23.6 nm) filters. <br>
 ## Telescopes in the southern hemisphere
+1. Gemini South (8m, NOIRLab) availble intruments depend <br>
+
