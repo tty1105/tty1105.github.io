@@ -52,6 +52,12 @@ In this blog, I list and introduce some telescopes working in the centimeter/mil
    **Configuration**: 3.1 arcsec (configuration D) and 0.089 arcsec (configuration A) at 22 GHz <br>
    **Line observation**: see the call for proposal page for details  <br>
    **Notes**: VLA can mainly be used to observed the NH3 lines, and SiO, CH3OH, and some carbon chains. <br>
+7. Sub-millimeter Array ([SMA](http://sma1.sma.hawaii.edu/smaoc.html)): submillimeter interferometer (eight 6m antennas) <br>
+   **Band**: 180-418 GHz <br>
+   **Configuration**: baseline 8-509m, 2.5 arcsec (subcompact) and 0.3 arcsec (very extended) at 345 GHz <br>
+   **Line observation**: four 12 GHz sidebands with 140 kHz resolution  <br>
+   **Time for proposal**: [deadline in mid-March and mid-September](http://sma1.sma.hawaii.edu/proposing.html#2) <br>
+   **Notes**: SMA has relatively limited sensitivity except for very compact and bright sources. <br>
    
 ## Telescopes in other countries in the southern hemisphere
 1. Astralia Telescope Compact Array ([ATCA](https://www.narrabri.atnf.csiro.au/observing/)): A radio interferometer (six 22m antennas). <br>
