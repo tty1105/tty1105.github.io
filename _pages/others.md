@@ -45,7 +45,7 @@ redirect_from:
 
 ## Collaborators
 * [Ping Zhou](https://astronomy.nju.edu.cn/szll/szgk/fjs/20220606/i223379.html), Nanjing University, China
-* Valentine Wakelam, Laboratoire d'Astrophysique de Bordeaux, France
+* [Valentine Wakelam](https://vwakelam.wixsite.com/astrochemistry), Laboratoire d'Astrophysique de Bordeaux (LAB), France
 * [Liton Majumdar](https://niser.ac.in/~liton/), National Institute of Science Education and Research (NISER), India
 
 
