@@ -6,19 +6,6 @@ redirect_from:
   - /others.html
 ---
 
-## Proposal calls or homepages of radio/millimeter/submillimeter telescopes
-* [ALMA](https://almascience.nrao.edu/proposing/call-for-proposals)
-* [VLA](https://greenbankobservatory.org/science/gbt-observers/proposals/)
-* [GBT](https://greenbankobservatory.org/science/gbt-observers/proposals/)
-* [IRAM NOEMA/30m](https://iram-institute.org/science-portal/proposals/call-for-proposals/)
-* [SMA](http://sma1.sma.hawaii.edu/smaoc.html)
-* [Yebes 40m](https://rt40m.oan.es/)
-* [JCMT](https://www.eaobservatory.org/jcmt/proposals/)
-* [ATCA](https://www.narrabri.atnf.csiro.au/observing/)
-* [Effelsberg](https://www.mpifr-bonn.mpg.de/247288/Call-for-proposals)
-* [APEX](https://www.apex-telescope.org/ns/proposing/)
-* [ARO](https://aro.as.arizona.edu/?q=observing-aro/proposals)
-
 ## Useful data archives
 ### Observational data
 * [SIMBAD](https://simbad.u-strasbg.fr/simbad/), everything
