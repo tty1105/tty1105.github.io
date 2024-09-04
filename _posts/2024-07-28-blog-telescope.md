@@ -108,7 +108,7 @@ Chinese researchers can access large optical/infrared through Telescope Access P
 2. Cerro Tololo Inter-American Observatory (CTIO, 4m, NOIRLab) <br>
    [**NEWFIRM**](https://noirlab.edu/science/programs/ctio/instruments/newfirm): 27.6 arcmin FOV, 0.4 arcsec/pix, with H2 (2131.9, FWHM 24.0 nm), \[FeII\] (1649.1, FWHM 17.2 nm), and some continuum filters. <br>
 3. Southern Astrophysical Research Telescope (SOAR, 4.2m, NOIRLab) <br>
-   [**SPARTAN Near-IR Camera**](https://noirlab.edu/science/programs/ctio/instruments/spartan-near-ir-camera): 5 arcmin FOV, 0.4 arcsec/pix, with H2 (2116, FWHM 31.0 nm), \[FeII\] (1640, FWHM 14 nm), narrow K continuum (2140, FWHM 30 nm), and some broad continuum filters. <br>
+   [**SPARTAN Near-IR Camera**](https://noirlab.edu/science/programs/ctio/instruments/spartan-near-ir-camera): 5 arcmin FOV, 0.066 arcsec/pix, with H2 (2116, FWHM 31.0 nm), \[FeII\] (1640, FWHM 14 nm), narrow K continuum (2140, FWHM 30 nm), and some broad continuum filters. <br>
    [**TripleSpec**](https://noirlab.edu/science/programs/ctio/instruments/triplespec41-nir-imaging-spectrograph): 0.8-2.47$\mu\rm m$, resolution ~ 3500
 4. Very Large Telescope (VLT, 4 8.2m) <br>
    [**KMOS**](https://www.eso.org/sci/facilities/paranal/instruments/kmos.html) (on UT1): IFU with R ~ 2000-4200, 64.9$\times$43.3 arcsec FOV in mosaic mode <br>
