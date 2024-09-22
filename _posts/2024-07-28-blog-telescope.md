@@ -94,7 +94,7 @@ Chinese researchers can access large optical/infrared through Telescope Access P
    **Notes**: Not very competitive. Proposals are encouranged. <br>
 4. Gemini North (8m, NOIRLab) availble intruments depend <br>
    [**GNIRS**](https://www.gemini.edu/instrumentation/gnirs): 1-5.4$\mu\rm m$ with R~1200-18000, *or* 0.1-0.34 arcmin FOV imaging with H2 and K filters, *or* two modes of IFU. <br>
-   [**NIRI**](https://www.gemini.edu/instrumentation/niri): 2 arcmin FOV, 0.117 arcsec/pix, with H2 v=1-0 S(1) (2123.9$\pm$26 nm), \[FeII\] (1644$\pm$25 nm), K continuum (2097.5$\pm$27 and 2271.8$\pm$35 nm) and H continuum (1570$\pm$23.6 nm) filters. <br>
+   [**NIRI**](https://www.gemini.edu/instrumentation/niri): 120-22 arcsec FOV, 0.117-0.022 arcsec/pix, with H2 v=1-0 S(1) (2123.9$\pm$26 nm), \[FeII\] (1644$\pm$25 nm), K continuum (2097.5$\pm$27 and 2271.8$\pm$35 nm) and H continuum (1570$\pm$23.6 nm) filters. <br>
 5. Subaru telescope (8.2m, through time exchange with Gemini in NOIRLab) <br>
    [**IRCS**](https://www.naoj.org/Observing/Instruments/IRCS/index.html): 0.9-5.6$\mu\rm m$ with R up to 20000 <br>
 6. Keck (10m, Keck I and II, sometimes open to NOIRLab) <br>
