@@ -98,13 +98,17 @@ Chinese researchers can access large optical/infrared through Telescope Access P
 5. Subaru telescope (8.2m, through time exchange with Gemini in NOIRLab) <br>
    [**IRCS**](https://www.naoj.org/Observing/Instruments/IRCS/index.html): 0.9-5.6$\mu\rm m$ with R up to 20000 <br>
 6. Keck (10m, Keck I and II, sometimes open to NOIRLab) <br>
+   [**MOSFIRE**](https://www2.keck.hawaii.edu/inst/mosfire/home.html) (Keck I): NIR multi-object spectrograph, 0.9-2.5$\mu\rm m$, R ~ 3300 <br>
    [**OSIRIS**](https://www2.keck.hawaii.edu/inst/osiris/) (Keck I): NIR IFU with R ~ 3800 <br>
+   [**NIRES**](https://www2.keck.hawaii.edu/inst/nires/) (Keck II): NIR spectroscopy, R ~ 2700, simultaneously 0.94-2.45 $\mu\rm m$ <br>
+   [**NIRC2**](https://www2.keck.hawaii.edu/inst/nirc2/) (Keck II): NIR imager, 1-5 $\mu\rm m$, FOV = 10, 20, or 40 arcsec, 10, 20, or 40 milliarcsec/pix <br>
    [**NIRSPEC**](https://www2.keck.hawaii.edu/inst/nirspec/) (Keck II): 0.95-5.5$\mu\rm m$ with R ~ 25000 <br>
 
 
 ## Telescopes in the southern hemisphere
 1. Gemini South (8m, NOIRLab) availble intruments depend <br>
    [**FLAMINGOS-2**](https://www.gemini.edu/instrumentation/flamingos-2): 6 arcmin FOV, 0.18 arcsec/pix with some broad band filters <br>
+   [**GSAOI**](https://www.gemini.edu/instrumentation/gsaoi): NIR adaptive optics imager, 0.9-2.4 $\mu\rm m$, FOV=85 arcsec, 0.02 arcsec/pix <br>
 2. Cerro Tololo Inter-American Observatory (CTIO, 4m, NOIRLab) <br>
    [**NEWFIRM**](https://noirlab.edu/science/programs/ctio/instruments/newfirm): 27.6 arcmin FOV, 0.4 arcsec/pix, with H2 (2131.9, FWHM 24.0 nm), \[FeII\] (1649.1, FWHM 17.2 nm), and some continuum filters. <br>
 3. Southern Astrophysical Research Telescope (SOAR, 4.2m, NOIRLab) <br>
@@ -114,9 +118,10 @@ Chinese researchers can access large optical/infrared through Telescope Access P
    [**KMOS**](https://www.eso.org/sci/facilities/paranal/instruments/kmos.html) (on UT1): IFU with R ~ 2000-4200, 64.9$\times$43.3 arcsec FOV in mosaic mode <br>
    [**VISIR**](https://www.eso.org/sci/facilities/paranal/instruments/visir.html) (on UT2): imaging and spectrography, at 5, 8-13 and 17-20 $\mu\rm m$, 1 arcmin FOV or R ~ 25000 <br>
    [**CRIRES**](https://www.eso.org/sci/facilities/paranal/instruments/crires.html) (on UT3): 0.95-5.3$\mu\rm m$ with R up to 92000. <br>
-   [**HAWK-I**](https://www.eso.org/sci/facilities/paranal/instruments/hawki.html) (on UT4): 7.5 arcmin FOV, 0.11 arcsec/pix, with H2 and continuum filters. <br> 
+   [**HAWK-I**](https://www.eso.org/sci/facilities/paranal/instruments/hawki.html) (on UT4): 7.5 arcmin FOV, 0.11 arcsec/pix, with H2 and continuum filters. <br>
+   [**ERIS**](https://www.eso.org/sci/facilities/paranal/instruments/eris.html) (on UT4): NIX: JHKLM band imaging, 13 milliarcsec/pix, FOV=27 arcsec <br>
    **Time for proposal**: [issued at the end of February and at the end of August](https://www.eso.org/sci/observing/phase1.html)
-5. Magellan Telescope (2 6.5m, sometimes open to NOIRLab) <br>
+6. Magellan Telescope (2 6.5m, sometimes open to NOIRLab) <br>
    [**FourStar**](https://www.lco.cl/?epkb_post_type_1=fourstar) (Magellan I): 10.8 arcmin FOV, 0.16 arcsec/pix, some continuum filters <br>
    [**FIRE**](https://web.mit.edu/~rsimcoe/www/FIRE/) (Magellan I): 0.8-2.5$\mu\rm m$ with R ~ 6000-8000 <br>
    
