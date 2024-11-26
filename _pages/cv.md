@@ -11,8 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S., Nanjing University, 2018-2022
-* Ph.D, Nanjing University, 2022- 
+* B.S., Nanjing University, 2018.9-2022.6
+* Ph.D, Nanjing University (Supervisor: Prof. Yang Chen), 2022.9-
+* Visiting PhD student, Laboratoire d'Astrophysique de Bordeaux (Supervisor: Dr. Valentine Wakelam. Sponsored by China Scholarship Council), 2024.12-2025.12 (expected)
   
 Skills
 ======
@@ -62,3 +63,4 @@ Approved observation proposals (as PI)
 * JCMT (M24BP015: 23.7h, filler): Estimation of cosmic-ray ionization rate towards supernova remnant Kes79
 * IRTF (2024B008: 11h): Cosmic-ray processing of interstellar ice towards supernova remnant W44
 * ALMA (2024.1.00194.S, 7m: 11.6h, TP: 23h): Physics and chemistry of dense molecular gas interacting with SNR W28
+* CFHT (25AS01, 4.54h, through TAP): Probing the interaction between supernova remnant and molecular cloud towards Galactic PeVatron: G106.3+2.7
