@@ -64,3 +64,5 @@ Approved observation proposals (as PI)
 * IRTF (2024B008: 11h): Cosmic-ray processing of interstellar ice towards supernova remnant W44
 * ALMA (2024.1.00194.S, 7m: 11.6h, TP: 23h): Physics and chemistry of dense molecular gas interacting with SNR W28
 * CFHT (25AS01, 4.54h, through TAP): Probing the interaction between supernova remnant and molecular cloud towards Galactic PeVatron: G106.3+2.7
+* CTIO-4m (2025A-734415, 2 nights): Probing the interaction between supernova remnants and molecular clouds towards TeV gamma-ray sources
+* CTIO-4m (2025A-127790, 0.5 nights): Probing the shock-cloud interaction towards supernova remnant RX J1713.7-3946
