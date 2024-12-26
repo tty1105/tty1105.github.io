@@ -7,7 +7,7 @@ excerpt: 'HCO+ and HCN 1-0 observations towards 13 supernova remnants'
 date: 2024-11-14
 venue: 'ApJ'
 firstauthor: 'Yes'
-citation: 'T.-Y. Tu, Y. Chen, Q.-C. Liu, 2024, ApJ, 978, 93'
+citation: 'T.-Y. Tu, Y. Chen, Q.-C. Liu, 2025, ApJ, 978, 93'
 ---
 Authors: **Tian-Yu Tu**, Yang Chen*, Qian-Cheng Liu
 
