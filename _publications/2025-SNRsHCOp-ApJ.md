@@ -15,4 +15,4 @@ In this paper, we present HCO+ and HCN observations, supplemented by data of CO 
 
 [Download paper here](http://tty1105.github.io/files/publications/Tu_2025_ApJ_978_83.pdf)
 
-<img src="https://tty1105.github.io/files/publications/2024_SNRsHCO+_ApJ.png" width="481" height="757" align="middle" /> <br>
+<img src="https://tty1105.github.io/files/publications/SNRsHCO+_2024_ApJ.png" width="481" height="757" align="middle" /> <br>
