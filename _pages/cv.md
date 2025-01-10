@@ -66,3 +66,5 @@ Approved observation proposals (as PI)
 * CFHT (25AS01, 4.54h, through TAP): Probing the interaction between supernova remnant and molecular cloud towards Galactic PeVatron: G106.3+2.7
 * CTIO-4m (2025A-734415, 2 nights): Probing the interaction between supernova remnants and molecular clouds towards TeV gamma-ray sources
 * CTIO-4m (2025A-127790, 0.5 nights): Probing the shock-cloud interaction towards supernova remnant RX J1713.7-3946
+* IRTF (2025A003, 28.2h): Cosmic-ray processing of interstellar ice towards supernova remnant W51C
+* IRTF (2025A007, 14h): Probing the cosmic-ray ionization towards the Cygnus Cocoon
