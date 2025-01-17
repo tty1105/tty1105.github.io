@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Wellcome to the Personal Website of Tianyu Tu!"
+title: "Welcome to the Personal Website of Tianyu Tu!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
