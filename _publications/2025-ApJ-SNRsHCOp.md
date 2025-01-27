@@ -2,7 +2,7 @@
 title: "Mapping the dense molecular gas towards thirteen supernova remnants"
 authors: "Tian-Yu Tu, Yang Chen, Qian-Cheng Liu"
 collection: publications
-permalink: /publications/2025-SNRsHCO+-ApJ
+permalink: /publications/2025-ApJ-SNRsHCO+
 excerpt: 'HCO+ and HCN 1-0 observations towards 13 supernova remnants'
 date: 2024-11-14
 venue: 'ApJ'
