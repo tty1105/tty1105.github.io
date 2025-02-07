@@ -68,3 +68,4 @@ Approved observation proposals (as PI)
 * CTIO-4m (2025A-127790, 0.5 nights): Probing the shock-cloud interaction towards supernova remnant RX J1713.7-3946
 * IRTF (2025A003, 28.2h): Cosmic-ray processing of interstellar ice towards supernova remnant W51C
 * IRTF (2025A007, 14h): Probing the cosmic-ray ionization towards the Cygnus Cocoon
+* Yebes (25A004, 27.2h): A Q-band line survey towards supernova remnant W28
