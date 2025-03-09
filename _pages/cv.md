@@ -22,6 +22,7 @@ Skills
   * [Gildas](https://www.iram.fr/IRAMFR/GILDAS/)/CLASS for data reduction of IRAM 30m, PMOD 13.7m, Yebes 40m, etc.
   * [Miriad](https://www.atnf.csiro.au/computing/software/miriad/) for ATCA data calibration and imaging
   * [CASA](https://casa.nrao.edu/casa_obtaining.shtml) for SMA data calibration and imaging
+  * [Spextool](https://irtfweb.ifa.hawaii.edu/~spex/observer/) for IRTF/SpeX data reduction
 * Open-source codes of astronomical numerical simulation
   * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
   * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
