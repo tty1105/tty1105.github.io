@@ -55,7 +55,7 @@ Approved observation proposals (as PI)
 =====
 * NOEMA (W22AS: 11h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
 * SMA (2022B-S009: 16h): Shock and cosmic ray chemistry in molecular clouds interacting with supernova remnant W28
-* ATCA (C3530: 24+10.6h): NH3 observation towards three ATLASGAL clumps associated with supernova remnant W28 
+* ATCA (C3530: 24+10.6+5.5h): NH3 observation towards three ATLASGAL clumps associated with supernova remnant W28 
 * Yebes (23A021: 22h) A 3mm line survey towards supernova remnant 3C391 
 * GBT (GBT23B-090: 12h): Probing the cosmic-ray-ionized dense gas associated with supernova remnant HB9
 * Yebes (24A003: 30.5h): Molecular Chemistry Induced by J-shock in Supernova Remnant W51C
