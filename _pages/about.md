@@ -13,7 +13,8 @@ I am currently a third-year PhD student from the [School of astronomy & Space Sc
 * Radio/mm/sub-mm observation of the chemical effects of SNRs on MCs, including the chemistry brough by shock and cosmic rays (CRs), e.g. HCO+/CO, HOC+/HCO+, DCO+/HCO+, COMs, etc. 
 * Simulation of shock and CR chemistry, e.g. radiolysis of icy molecules by CRs. 
 * IR absorption of icy molecules in MCs associated with SNRs, e.g. the 3.0 micron H2O ice absorption.
-* IR observation of H2 lines to probe SNR-MC interaction. 
+* IR observation of H2 lines to probe SNR-MC interaction.
+<br>
 If you have any questions, or want to collaborate with me, please do not hesitate to email me (**tianyu.tu1105 at outlook.com** or **tianyutu at smail.nju.edu.cn**) <br>
 
 <img src="https://tty1105.github.io/images/about/w28_rosat_optical_radio.jpg" width="500" height="500" align="middle" /> <br>
