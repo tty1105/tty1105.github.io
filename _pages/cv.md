@@ -32,6 +32,7 @@ Skills
 * Observation experience
   * Qualified observer of ATCA (NH<sub>3</sub> spectral lines, remote)
   * IRTF/SpeX observation (remote)
+  * CTIO/Blanco-4m/NEWFIRM observation (remote)
 
 Publications (as 1st author)
 ======
