@@ -23,11 +23,12 @@ Skills
   * [Miriad](https://www.atnf.csiro.au/computing/software/miriad/) for ATCA data calibration and imaging
   * [CASA](https://casa.nrao.edu/casa_obtaining.shtml) for SMA data calibration and imaging
   * [Spextool](https://irtfweb.ifa.hawaii.edu/~spex/observer/) for IRTF/SpeX data reduction
+  * [IRAF](https://iraf.noirlab.edu/) for CTIO-4m/NEWFIRM data calibration
 * Open-source codes of astronomical numerical simulation
-  * [pNautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
+  * [Nautilus](https://forge.oasu.u-bordeaux.fr/LAB/astrochem-tools/pnautilus) for astrochemistry
   * [Paris-Durham shock code](https://ism.obspm.fr/shock.html) for 1D plane-parallel shock physics and chemistry
   * [UCLCHEM](https://uclchem.github.io/) for astrochemistry
-  * [Meudon PDR code](https://ism.obspm.fr/pdr.html) for simulation of photodissociation regions
+  * [Meudon PDR code](https://ism.obspm.fr/pdr.html) for simulation of photodissociation regions (basic)
   * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid dynamics (basic)
 * Observation experience
   * Qualified observer of ATCA (NH<sub>3</sub> spectral lines, remote)
@@ -71,3 +72,7 @@ Approved observation proposals (as PI)
 * IRTF (2025A003, 28.2h): Cosmic-ray processing of interstellar ice towards supernova remnant W51C
 * IRTF (2025A007, 14h): Probing the cosmic-ray ionization towards the Cygnus Cocoon
 * Yebes (25A004, 27.2h): A Q-band line survey towards supernova remnant W28
+* IRAM 30m (006-25, 28.9h): Cosmic ray ionization towards supernova remnant HB9
+* IRAM 30m (016-25, 39.4h): Origin of the narrow SiO emission in IRDC G33.69-0.01
+* NOEMA (S25AN, 19.0h): J- and C-shock chemistry towards clump C of supernova ramnant IC443
+* NOEMA (S25AS, 15.6h): Probing the molecular cloud exposed to shock and cosmic rays from supernova remnant 3C391
