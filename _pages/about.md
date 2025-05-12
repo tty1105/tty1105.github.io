@@ -16,7 +16,7 @@ I am currently a third-year PhD student from the [School of astronomy & Space Sc
 * IR observation of H2 lines to probe SNR-MC interaction.
 
 
-If you have any questions, or want to collaborate with me, please do not hesitate to email me (**tianyu.tu1105 at outlook.com** or **tianyutu at smail.nju.edu.cn**) <br>
+If you have any questions, or want to collaborate with me, please do not hesitate to email me (**tianyu.tu1105 at outlook.com** or **tianyutu at smail.nju.edu.cn**). The observational data of my publications will be available on Zenodo.  <br>
 
 <img src="https://tty1105.github.io/images/about/w28_rosat_optical_radio.jpg" width="500" height="500" align="middle" /> <br>
 SNR W28, a typical SNR interacting with MCs (white: optical, blue:X-ray, yellow: radio). cr: [Chandra](https://chandra.harvard.edu/photo/2008/w28/more.html)
