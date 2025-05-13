@@ -76,4 +76,4 @@ Approved observation proposals (as PI)
 * IRAM 30m (016-25, 39.4h): Origin of the narrow SiO emission in IRDC G33.69-0.01
 * NOEMA (S25AN, 19.0h): J- and C-shock chemistry towards clump C of supernova ramnant IC443
 * NOEMA (S25AS, 15.6h): Probing the molecular cloud exposed to shock and cosmic rays from supernova remnant 3C391
-* GBT (GBT25B-001, 37.5h): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
+* GBT (GBT25B-001, 37.5h, filler): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
