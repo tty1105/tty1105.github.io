@@ -78,3 +78,4 @@ Approved observation proposals (as PI)
 * NOEMA (S25AS, 15.6h): Probing the molecular cloud exposed to shock and cosmic rays from supernova remnant 3C391
 * GBT (GBT25B-001, 37.5h, filler): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
 * P200 (CTAP2025-B0022, 1 night, through TAP): Is the Tycho's supernova remnant interacting with ambient molecular clouds?
+* Gemini North (GN-2025B-Q-143, 7.4h): Probing the farthest supernova remnant interacting with molecular cloud with H2
