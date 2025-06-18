@@ -79,3 +79,4 @@ Approved observation proposals (as PI)
 * GBT (GBT25B-001, 37.5h, filler): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
 * P200 (CTAP2025-B0022, 1 night, through TAP): Is the Tycho's supernova remnant interacting with ambient molecular clouds?
 * Gemini North (GN-2025B-Q-143, 7.4h): Probing the farthest supernova remnant interacting with molecular cloud with H2
+* CTIO-4m (2025B-571615, 1.5 nights): Probing the shock-cloud interaction toward superbubble 30 Doradus C
