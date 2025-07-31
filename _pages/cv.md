@@ -81,3 +81,4 @@ Approved observation proposals (as PI)
 * P200 (CTAP2025-B0022, 1 night, through TAP): Is the Tycho's supernova remnant interacting with ambient molecular clouds?
 * Gemini North (GN-2025B-Q-143, 7.4h): Probing the farthest supernova remnant interacting with molecular cloud with H2
 * CTIO-4m (2025B-571615, 1.5 nights): Probing the shock-cloud interaction toward superbubble 30 Doradus C
+* ALMA (2025.1.00086.S, 7m: 35.4h, TP: 58.6h): Is SO+ a tracer of dissociative shock in supernova remnant IC443?
