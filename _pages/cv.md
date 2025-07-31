@@ -31,10 +31,10 @@ Skills
   * [Meudon PDR code](https://ism.obspm.fr/pdr.html) for simulation of photodissociation regions (basic)
   * [PLUTO](http://plutocode.ph.unito.it/) for computational fluid dynamics (basic)
 * Observation experience
-  * Qualified observer of ATCA (NH<sub>3</sub> spectral lines, remote)
-  * IRTF/SpeX & iSHELL observation (remote)
-  * CTIO/Blanco-4m/NEWFIRM observation (remote)
-  * IRAM 30m observation (on-site)
+  * ATCA (NH<sub>3</sub> spectral lines, remote)
+  * IRTF/SpeX & iSHELL (remote)
+  * CTIO/Blanco-4m/NEWFIRM (remote)
+  * IRAM 30m (on-site)
 
 Publications (as 1st author)
 ======
