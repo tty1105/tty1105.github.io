@@ -35,6 +35,7 @@ Skills
   * IRTF/SpeX & iSHELL (remote)
   * CTIO/Blanco-4m/NEWFIRM (remote)
   * IRAM 30m (on-site)
+  * P200/WIRC (remote)
 
 Publications (as 1st author)
 ======
