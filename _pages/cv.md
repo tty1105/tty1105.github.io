@@ -83,3 +83,5 @@ Approved observation proposals (as PI)
 * Gemini North (GN-2025B-Q-143, 7.4h): Probing the farthest supernova remnant interacting with molecular cloud with H2
 * CTIO-4m (2025B-571615, 1.5 nights): Probing the shock-cloud interaction toward superbubble 30 Doradus C
 * ALMA (2025.1.00086.S, 7m: 35.4h, TP: 58.6h): Is SO+ a tracer of dissociative shock in supernova remnant IC443?
+* IRAM 30m (135-25, 52.0h): Complex organic molecules in starless cores: a sample in the California molecular cloud
+* IRAM 30m (168-25, 19.0h): Shock and cosmic-ray chemistry induced by supernova remnant W28
