@@ -36,6 +36,7 @@ Skills
   * CTIO/Blanco-4m/NEWFIRM (remote)
   * IRAM 30m (on-site)
   * P200/WIRC (remote)
+  * GBT (have taken the remote training workshop)
 
 Publications (as 1st author)
 ======
