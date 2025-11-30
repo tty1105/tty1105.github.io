@@ -13,7 +13,7 @@ Education
 ======
 * B.S., Kuang Yaming Honors School, Nanjing University, 2018.9-2022.6
 * Ph.D, School of Astronomy and Space Science, Nanjing University (Supervisor: Prof. Yang Chen), 2022.9-2027.6 (expected)
-* Visiting PhD student, Laboratoire d'Astrophysique de Bordeaux (Supervisor: Dr. Valentine Wakelam. Sponsored by China Scholarship Council), 2024.12-2025.12 (expected)
+* Visiting PhD student, Laboratoire d'Astrophysique de Bordeaux (Supervisor: Dr. Valentine Wakelam. Sponsored by China Scholarship Council), 2024.12-2025.12
   
 Skills
 ======
