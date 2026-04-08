@@ -4,7 +4,7 @@ authors: "Tian-Yu Tu, Valentine Wakelam, Jean-Christophe Loison, Marin Chabot, E
 collection: publications
 permalink: /publications/2026-radiolysis-AA
 excerpt: 'Reproduce radiolysis experiments with astrochemical model'
-date: 2026-04-09
+date: 2026-04-08
 venue: 'A&A'
 firstauthor: 'Yes'
 citation: 'T.-Y. Tu, V. Wakelam, Y. Chen, P. Zhou, Q.-Q. Zhang, 2025, A&A, 708, A237'
