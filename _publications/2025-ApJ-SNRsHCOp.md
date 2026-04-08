@@ -13,6 +13,6 @@ Authors: **Tian-Yu Tu**, Yang Chen*, Qian-Cheng Liu
 
 In this paper, we present HCO+ and HCN observations, supplemented by data of CO isotopes, towards 13 SNRs where SNR-MC interaction has been proposed. We find 8 SNRs with strong HCO+ emission. We detect an expanding CO shell associated with SNR G9.7-0.0, as well as a possible line wing towards SNR CTB109. We also explore the I(HCO+)/I(HCN) line ratio and N(HCO+)/N(CO) abundance ratio towards the SNRs, but we do not find significant deviation from the typical values in Galactic quiescent MCs. 
 
-[Download paper here](http://tty1105.github.io/files/publications/Tu_2025_ApJ_978_83.pdf)
+[Paper available here](https://iopscience.iop.org/article/10.3847/1538-4357/ad9390)
 
 <img src="https://tty1105.github.io/files/publications/SNRsHCO+_2024_ApJ.png" width="481" height="757" align="middle" /> <br>
