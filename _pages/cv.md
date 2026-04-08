@@ -34,9 +34,9 @@ Skills
   * ATCA (NH<sub>3</sub> spectral lines, remote)
   * IRTF/SpeX & iSHELL (remote)
   * CTIO/Blanco-4m/NEWFIRM (remote)
-  * IRAM 30m (on-site)
+  * IRAM 30m (on-site and remote)
   * P200/WIRC (remote)
-  * GBT (have taken the remote training workshop)
+  * GBT (remote)
 
 Publications (as 1st author)
 ======
