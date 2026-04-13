@@ -48,4 +48,20 @@ git add .
 git commit -m "update"
 git push
 ```
-即可。
+即可。<br>
+在国内有时候git push的时候会连接超时。可以用ssh连接。首先确保电脑里有ssh密钥：```ls -al ~/.ssh```，如果看到 id_ed25519、id_ed25519.pub 或 id_rsa、id_rsa.pub 这些文件，说明已经生成过密钥了。这样```cat ~/.ssh/id_ed25519.pub```或```cat ~/.ssh/id_rsa.pub```，会打印出一长串以 ssh-ed25519 或 ssh-rsa 开头、以你的邮箱结尾的字符，整段全部复制下来。<br>
+把ssh密钥添加到 GitHub 账户：<br>
+1. 登录 GitHub 网站，点击右上角头像 -> Settings。<br>
+2. 在左侧菜单选择 SSH and GPG keys。<br>
+3. 点击绿色的 New SSH key 按钮。<br>
+4. Title: 填写一个辨识名称，比如 "My Desktop PC"。<br>
+5. Key: 将刚才复制的公钥内容粘贴到此处。<br>
+6. 点击 Add SSH key。<br>
+
+然后切换连接方式
+```
+git remote set-url origin git@github.com:tty1105/aaaaaa.git
+```
+其中aaaaaa是你的repository名字。然后再```git push```即可。
+
+
