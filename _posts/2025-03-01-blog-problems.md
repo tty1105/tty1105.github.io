@@ -1,7 +1,7 @@
 ---
-title: 'Bugs in codes installation and compilation'
+title: 'Problems in codes installation and compilation'
 date: 2025-03-01
-permalink: /posts/2025/03/bugs/
+permalink: /posts/2025/03/problems/
 tags:
   - codes
 ---
