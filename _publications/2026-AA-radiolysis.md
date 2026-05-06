@@ -7,7 +7,7 @@ excerpt: 'Reproduce radiolysis experiments with astrochemical model'
 date: 2026-04-08
 venue: 'A&A'
 firstauthor: 'Yes'
-citation: 'T.-Y. Tu, V. Wakelam, Y. Chen, P. Zhou, Q.-Q. Zhang, 2025, A&A, 708, A237'
+citation: 'T.-Y. Tu, V. Wakelam, J.-C. Loison, M. Chabot, E. Dartois, Y. Chen, 2026, A&A, 708, A237'
 ---
 Authors: **Tian-Yu Tu**, Valentine Wakelam\*, Jean-Christophe Loison, Marin Chabot, Emmanuel Dartois, Yang Chen\* 
 
