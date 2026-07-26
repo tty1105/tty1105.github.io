@@ -85,5 +85,5 @@ Approved observation proposals (as PI)
 * ALMA (2025.1.00086.S, 7m: 35.4h, TP: 58.6h): Is SO+ a tracer of dissociative shock in supernova remnant IC443?
 * IRAM 30m (135-25, 34.0h): Complex organic molecules in starless cores: a sample in the California molecular cloud
 * IRAM 30m (168-25, 19.0h): Shock and cosmic-ray chemistry induced by supernova remnant W28
-* GBT (GBT25B-001, 39.25h): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
+* GBT (GBT26A-008, 39.25h): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
 * Gemini South (GS-2026A-Q-334, 2.92h): Investigating the origin of the H2 emission toward supernova remnant RCW 86
