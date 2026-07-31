@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF version [here](https://tty1105.github.io/files/TinyuTu_CV.pdf). 
+Download PDF version [here](https://tty1105.github.io/files/TianyuTu_CV.pdf). 
 
 Education
 ======
