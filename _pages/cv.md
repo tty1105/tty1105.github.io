@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Download PDF version [here](https://tty1105.github.io/files/TinyuTu_CV.pdf). 
+
 Education
 ======
 * B.S., Kuang Yaming Honors School, Nanjing University, 2018.9-2022.6
