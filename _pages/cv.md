@@ -82,7 +82,6 @@ Approved observation proposals (as PI)
 * NOEMA (S25AN, 19.0h): J- and C-shock chemistry towards clump C of supernova ramnant IC443
 * NOEMA (S25AS, 15.6h): Probing the molecular cloud exposed to shock and cosmic rays from supernova remnant 3C391
 * P200 (CTAP2025-B0022, 1 night, through TAP): Is the Tycho's supernova remnant interacting with ambient molecular clouds?
-* ALMA (2026.1.00381.S, 7m: 42.9h, TP: 73.5h): Mapping CH3OH and H2S in starless cores
 * Gemini North (GN-2025B-Q-143, 5.86h): Probing the farthest supernova remnant interacting with molecular cloud with H2
 * CTIO-4m (2025B-571615, 1.5 nights): Probing the shock-cloud interaction toward superbubble 30 Doradus C
 * ALMA (2025.1.00086.S, 7m: 35.4h, TP: 58.6h): Is SO+ a tracer of dissociative shock in supernova remnant IC443?
@@ -90,3 +89,4 @@ Approved observation proposals (as PI)
 * IRAM 30m (168-25, 19.0h): Shock and cosmic-ray chemistry induced by supernova remnant W28
 * GBT (GBT26A-008, 39.25h): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
 * Gemini South (GS-2026A-Q-334, 2.92h): Investigating the origin of the H2 emission toward supernova remnant RCW 86
+* ALMA (2026.1.00381.S, 7m: 42.9h, TP: 73.5h): Mapping CH3OH and H2S in starless cores
