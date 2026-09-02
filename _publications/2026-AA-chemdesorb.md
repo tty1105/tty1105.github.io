@@ -2,8 +2,8 @@
 title: "Testing various assumptions for radiolysis, non-diffusive chemistry, and chemical desorption in cold cores"
 authors: "Valentine Wakelam, Tian-Yu Tu"
 collection: publications
-permalink: /publications/2026-chemdesorb-AA
-excerpt: 'Testing Nautilus model'
+permalink: /publications/2026-AA-chemdesorb
+excerpt: 'Testing the Nautilus model'
 date: 2026-09-02
 venue: 'A&A'
 firstauthor: 'No'
