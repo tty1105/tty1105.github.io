@@ -89,4 +89,5 @@ Approved observation proposals (as PI)
 * IRAM 30m (168-25, 19.0h): Shock and cosmic-ray chemistry induced by supernova remnant W28
 * GBT (GBT26A-008, 39.25h): NH3 map of molecular clouds interacting with supernova remnants W28 and IC443
 * Gemini South (GS-2026A-Q-334, 2.92h): Investigating the origin of the H2 emission toward supernova remnant RCW 86
+* Effelsberg (40-26, 25h): A deep K-band line survey toward supernova remnant IC443
 * ALMA (2026.1.00381.S, 7m: 42.9h, TP: 73.5h): Mapping CH3OH and H2S in starless cores
